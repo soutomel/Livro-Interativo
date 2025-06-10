@@ -1,0 +1,38 @@
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Livro Interativo da Bíblia</title>
+    <link rel="stylesheet" href="/css/styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
+</head>
+<body>
+    <div class="book-container">
+        <button class="nav-btn prev-btn material-icons">chevron_left</button>
+
+        <div class="book closed">
+            <div class="book-cover">
+                <h1>Livro Interativo da Bíblia</h1>
+            </div>
+            
+            <div class="page left-page"></div>
+            <div class="page right-page"></div>
+        </div>
+
+        <button class="nav-btn next-btn material-icons">chevron_right</button>
+
+        <div class="page-indicator">
+            <div class="dots"></div>
+        </div>
+    </div>
+
+    <footer>
+        <img src="/imgs/logo.jpg" alt="Logo" />
+        <p> &copy; 2024 Melissa Gabriele. Todos os direitos reservados.</p>
+    </footer>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/canvas-confetti/1.5.1/confetti.browser.min.js"></script>
+    <script src="/js/script.js"></script>
+</body>
+</html>
+
