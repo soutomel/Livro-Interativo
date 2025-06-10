@@ -15,14 +15,37 @@ Bem-vindo(a) ao **Livro Interativo da Bíblia** — um projeto educacional desen
 
 ## 🛠️ Tecnologias Utilizadas
 
-- HTML5
-- CSS3
+- HTML5  
+- CSS3  
 - JavaScript
 
 ---
 
 ## 🚀 Como Executar Localmente
 
-1. Clone o repositório:
+1️⃣ Clone o repositório:
+
 ```bash
 git clone https://github.com/soutomel/livro-interativo.git
+```
+
+2️⃣ Acesse a pasta:
+
+```bash
+cd livro-interativo
+```
+
+3️⃣ Abra o arquivo `index.html` no navegador.
+
+---
+
+## 🧑‍💻 Autora
+
+**Melissa Gabriele Souto**  
+Estudante de Análise e Desenvolvimento de Sistemas – UNIFACISA  
+📍 Campina Grande, PB  
+🔗 [GitHub](https://github.com/soutomel) • [LinkedIn](https://www.linkedin.com/in/mel-soutocg-578325302/)
+
+---
+
+> Projeto desenvolvido para fins educacionais e demonstrativos. Todos os direitos reservados © 2024.
